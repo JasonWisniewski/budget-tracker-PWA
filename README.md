@@ -18,11 +18,8 @@ I learned about indexedDB and servicer workers in creating this application.
 clone the repo.
 
 ## Usage
-a walk through of the application can be found at.
 
-https://drive.google.com/file/d/19UEtHwqUOMODvKFGNfnNtV9A1Ln-pydy/view
-
-This can be used by anyone looking for an api for their social media application. 
+This can be used by anyone looking to learn about service workers and implementing them for a PWA. 
 
 ## License
 MIT
